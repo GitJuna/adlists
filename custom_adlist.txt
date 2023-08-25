@@ -29,3 +29,22 @@
 0.0.0.0 internal.whitebit.com
 0.0.0.0 ekr.zdassets.com
 0.0.0.0 slotmagie.zendesk.com
+
+# Entries from 2023.08.25
+0.0.0.0 authorityanswers.com
+0.0.0.0 environmentaltallrender.com
+0.0.0.0 faptitans.com
+0.0.0.0 flixwave.to
+0.0.0.0 hatchetsummit.com
+0.0.0.0 hideousactivelyparked.com
+0.0.0.0 housekeepergamesmeeting.com
+0.0.0.0 industrialforemanmovements.com
+0.0.0.0 maidendeprivation.com
+0.0.0.0 myeasetrack.com
+0.0.0.0 neverstoprotation.com
+0.0.0.0 rkavi.com
+0.0.0.0 tattoocommit.com
+0.0.0.0 trekstereo.com
+0.0.0.0 adx.ads.vungle.com
+0.0.0.0 we49kd.com
+0.0.0.0 wretchmilitantasia.com
