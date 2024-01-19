@@ -1,114 +1,114 @@
 # Entries from 2023.08.16
-0.0.0.0 bailedperiodic.com
-0.0.0.0 claim-reward.cz66d6c46u7r.top
-0.0.0.0 tq.discoveryplugs-1.live
-0.0.0.0 xml-v4.discoveryplugs-1.live
-0.0.0.0 ocsp.godaddy.com
-0.0.0.0 intepigo.com
-0.0.0.0 meenetiy.com
-0.0.0.0 api.nakarta.com
-0.0.0.0 editorapi.nakarta.com
-0.0.0.0 intern.nakarta.com
-0.0.0.0 api.onesignal.com
-0.0.0.0 ralm-si.com
-0.0.0.0 www.salesmanago.com
-0.0.0.0 record.solispartner.com
-0.0.0.0 shulugoo.net
-0.0.0.0 www.slotmagie.de
-0.0.0.0 external-static-gateway.supersonicads.com
-0.0.0.0 tango997.xyz
-0.0.0.0 cms.themill.tech
-0.0.0.0 therefinaldecided.com
-0.0.0.0 tiresomemuggyeagerly.com
-0.0.0.0 tosssix.com
-0.0.0.0 trainedpiano.com
-0.0.0.0 valuedpulverizelegitimate.com
-0.0.0.0 adz.wattpad.com
-0.0.0.0 whitebit.com
-0.0.0.0 cdn.whitebit.com
-0.0.0.0 internal.whitebit.com
-0.0.0.0 ekr.zdassets.com
-0.0.0.0 slotmagie.zendesk.com
+bailedperiodic.com
+claim-reward.cz66d6c46u7r.top
+tq.discoveryplugs-1.live
+xml-v4.discoveryplugs-1.live
+ocsp.godaddy.com
+intepigo.com
+meenetiy.com
+api.nakarta.com
+editorapi.nakarta.com
+intern.nakarta.com
+api.onesignal.com
+ralm-si.com
+www.salesmanago.com
+record.solispartner.com
+shulugoo.net
+www.slotmagie.de
+external-static-gateway.supersonicads.com
+tango997.xyz
+cms.themill.tech
+therefinaldecided.com
+tiresomemuggyeagerly.com
+tosssix.com
+trainedpiano.com
+valuedpulverizelegitimate.com
+adz.wattpad.com
+whitebit.com
+cdn.whitebit.com
+internal.whitebit.com
+ekr.zdassets.com
+slotmagie.zendesk.com
 
 # Entries from 2023.08.25
-0.0.0.0 authorityanswers.com
-0.0.0.0 environmentaltallrender.com
-0.0.0.0 faptitans.com
-0.0.0.0 flixwave.to
-0.0.0.0 hatchetsummit.com
-0.0.0.0 hideousactivelyparked.com
-0.0.0.0 housekeepergamesmeeting.com
-0.0.0.0 industrialforemanmovements.com
-0.0.0.0 maidendeprivation.com
-0.0.0.0 myeasetrack.com
-0.0.0.0 neverstoprotation.com
-0.0.0.0 rkavi.com
-0.0.0.0 tattoocommit.com
-0.0.0.0 trekstereo.com
-0.0.0.0 adx.ads.vungle.com
-0.0.0.0 we49kd.com
-0.0.0.0 wretchmilitantasia.com
+authorityanswers.com
+environmentaltallrender.com
+faptitans.com
+flixwave.to
+hatchetsummit.com
+hideousactivelyparked.com
+housekeepergamesmeeting.com
+industrialforemanmovements.com
+maidendeprivation.com
+myeasetrack.com
+neverstoprotation.com
+rkavi.com
+tattoocommit.com
+trekstereo.com
+adx.ads.vungle.com
+we49kd.com
+wretchmilitantasia.com
 
 # Entries from 2023.12.30
-0.0.0.0 eu.app.unleash-hosted.com
-0.0.0.0 resentfulelsewherethoroughfare.com
-0.0.0.0 api.armorgamesstudios.com
-0.0.0.0 pastfrolicpackage.com
-0.0.0.0 festivityratfun.com
-0.0.0.0 iliketomakingpics.com
-0.0.0.0 animemeat.com
-0.0.0.0 superherosnout.com
-0.0.0.0 professionalswebcheck.com
-0.0.0.0 enma.mcloud.to
-0.0.0.0 wearyregister.com
-0.0.0.0 go.xtraperfnow.com
-0.0.0.0 naivegirlie.com
-0.0.0.0 selymer-sperts.com
-0.0.0.0 marketing.etorostatic.com
-0.0.0.0 go.etoro.com
-0.0.0.0 daggerwantedliterally.com
-0.0.0.0 med.etoro.com
-0.0.0.0 bewitchadmiringconstraint.com
-0.0.0.0 navywilyoccur.com
-0.0.0.0 tracker-tds.info
-0.0.0.0 ilouyne.crystalchiseler.top
-0.0.0.0 ilouyne.regulushamal.top
-0.0.0.0 cdnstatic.crystalchiseler.top
-0.0.0.0 abcconducted.com
-0.0.0.0 nagwrotedetain.com
-0.0.0.0 xml.yellow-resultsbidder.com
-0.0.0.0 eu.letitredir.com
-0.0.0.0 millionsskinny.com
-0.0.0.0 r-eu.tsyndicate.com
-0.0.0.0 elizabethobjectedgarlic.com
-0.0.0.0 i.computer-bild.de
-0.0.0.0 huramovies.to
-0.0.0.0 omitpollenending.com
-0.0.0.0 prematuresam.com
-0.0.0.0 midgetdeliveringsmartly.com
-0.0.0.0 undertakinghomeyegg.com
-0.0.0.0 rollerstrayprawn.com
-0.0.0.0 tripsstyle.com
-0.0.0.0 thoroughfarefeudalfaster.com
-0.0.0.0 attendancereporterwren.com
-0.0.0.0 refundeelmonstrous.com
-0.0.0.0 realmlistresponsive.com
-0.0.0.0 pessimisticsurpriseexclusively.com
-0.0.0.0 lucky-winning.com
-0.0.0.0 crawledlikely.com
-0.0.0.0 nanhermione.com
-0.0.0.0 nourishinghorny.com
-0.0.0.0 xml-v4.fstsrv6.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 collisionimpulsivejumpy.com
-0.0.0.0 verygoodminigames.com
-0.0.0.0 animeplaynow.com
-0.0.0.0 ledgerespective.com
-0.0.0.0 ethiclingeriechristian.com 
-0.0.0.0 visitingexcruciation.com
-0.0.0.0 margaretparents.com
-0.0.0.0 youtrustedprolong.com
-0.0.0.0 correctionoppression.com
-0.0.0.0 examinationdeserve.com
-0.0.0.0 stormydiskbankrupt.com
-0.0.0.0 heathenvision.com
+eu.app.unleash-hosted.com
+resentfulelsewherethoroughfare.com
+api.armorgamesstudios.com
+pastfrolicpackage.com
+festivityratfun.com
+iliketomakingpics.com
+animemeat.com
+superherosnout.com
+professionalswebcheck.com
+enma.mcloud.to
+wearyregister.com
+go.xtraperfnow.com
+naivegirlie.com
+selymer-sperts.com
+marketing.etorostatic.com
+go.etoro.com
+daggerwantedliterally.com
+med.etoro.com
+bewitchadmiringconstraint.com
+navywilyoccur.com
+tracker-tds.info
+ilouyne.crystalchiseler.top
+ilouyne.regulushamal.top
+cdnstatic.crystalchiseler.top
+abcconducted.com
+nagwrotedetain.com
+xml.yellow-resultsbidder.com
+eu.letitredir.com
+millionsskinny.com
+r-eu.tsyndicate.com
+elizabethobjectedgarlic.com
+i.computer-bild.de
+huramovies.to
+omitpollenending.com
+prematuresam.com
+midgetdeliveringsmartly.com
+undertakinghomeyegg.com
+rollerstrayprawn.com
+tripsstyle.com
+thoroughfarefeudalfaster.com
+attendancereporterwren.com
+refundeelmonstrous.com
+realmlistresponsive.com
+pessimisticsurpriseexclusively.com
+lucky-winning.com
+crawledlikely.com
+nanhermione.com
+nourishinghorny.com
+xml-v4.fstsrv6.com
+graph.facebook.com
+collisionimpulsivejumpy.com
+verygoodminigames.com
+animeplaynow.com
+ledgerespective.com
+ethiclingeriechristian.com 
+visitingexcruciation.com
+margaretparents.com
+youtrustedprolong.com
+correctionoppression.com
+examinationdeserve.com
+stormydiskbankrupt.com
+heathenvision.com
